@@ -101,6 +101,10 @@
 
 * [Karenina-na/Claude-Desktop](https://github.com/Karenina-na/Claude-Desktop) - Windows
 
+## CLI Tools
+
+* [daxaur/openpaw](https://github.com/daxaur/openpaw) - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
+
 ## Multi-agent tools
 
 ### LLM [↗️](https://github.com/simonw/llm) 
