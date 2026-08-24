@@ -100,6 +100,7 @@
 ## Desktop apps
 
 * [Karenina-na/Claude-Desktop](https://github.com/Karenina-na/Claude-Desktop) - Windows
+* [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)
 
 ## CLI Tools
 
